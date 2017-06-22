@@ -1,4 +1,3 @@
-//# chsu5358.github.io
 # Information Extraction and Synthesis Laboratory (IESL)
 
 ## Information
