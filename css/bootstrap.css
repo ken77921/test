@@ -789,7 +789,7 @@ h4 small {
   padding-bottom: 9px;
   margin: 20px 0 30px;
 /* CY: UMass color */  
-  border-bottom: 1px solid #881c1c;
+  border-bottom: 1px solid #a8431e;
 /*
   border-bottom: 1px solid #eeeeee;
 */
@@ -880,7 +880,10 @@ dd {
 hr {
   margin: 20px 0;
   border: 0;
+/* CY: UMass color 
   border-top: 1px solid #eeeeee;
+*/
+  border-top: 1px solid #a8431e;
   border-bottom: 1px solid #ffffff;
 }
 
