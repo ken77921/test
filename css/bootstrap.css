@@ -788,7 +788,11 @@ h4 small {
 .page-header {
   padding-bottom: 9px;
   margin: 20px 0 30px;
+/* CY: UMass color */  
+  border-bottom: 1px solid #881c1c;
+/*
   border-bottom: 1px solid #eeeeee;
+*/
 }
 
 ul,
