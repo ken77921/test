@@ -2,7 +2,7 @@
 .jumbotron
 {
 	background: rgba(136,28,28,0.5) url(../images/seal-umass-maroon-transparent-small.png) repeat 0 0;
-	color: black;
+	color: #fff;
 	margin-bottom: 5px;
 }
 
@@ -11,6 +11,7 @@
 	text-align: center;
 	font-size: 3em;
 	font-weight: 400;
+	color: black;
 }
 
 .jumbotron .leadspace-buttons {
