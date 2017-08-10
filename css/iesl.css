@@ -1,8 +1,8 @@
 /* CY */
 .jumbotron
 {
-	background: #881c1c url(../images/seal-umass-maroon-transparent.png) repeat 0 0;
-	color: #881c1c;
+	background: #881c1c url(../images/seal-umass-maroon-transparent.png) opacity 50% repeat 0 0;
+	color: #fff;
 	margin-bottom: 5px;
 }
 
