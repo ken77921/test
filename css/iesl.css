@@ -1,8 +1,15 @@
 /* CY */
-.div .ul .li {
+.row h3 {
+	display: inline;
+}
+.row span {
+	float:right;
+}
+
+div ul li {
 	font-size: 2em;
 }
-.div .p {
+div p {
 	font-size: 2em;
 }
 
