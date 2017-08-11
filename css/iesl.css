@@ -20,8 +20,15 @@
 	text-align: justify;
 }
 
-footer a {
+.desc {
+	text-align: justify;
+}
+
+footer {
 	text-align: center;
+}
+
+footer a {
 	color: #881c1c;	
 }
 
