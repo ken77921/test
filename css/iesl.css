@@ -8,6 +8,7 @@
 	color: #881c1c;
 }
 .row div div span {
+	display: inline;
 	text-align: right;
 	float: right;
 }
