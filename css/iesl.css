@@ -16,7 +16,12 @@
 	font-style: italic;
 }
 
+.row div p {
+	text-align: justify;
+}
+
 footer a {
+	text-align: center;
 	color: #881c1c;	
 }
 
