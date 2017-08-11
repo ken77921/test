@@ -1,4 +1,9 @@
 /* CY */
+.row ul li {
+	text-align: justify;
+}
+
+/* mainly: datasets */
 .row div div h3 {
 	text-align: left;
 	display: inline;
@@ -14,10 +19,6 @@
 	font-size: 14px; 
 	font-weight: normal;
 	font-style: italic;
-}
-
-.row div p {
-	text-align: justify;
 }
 
 .desc {
