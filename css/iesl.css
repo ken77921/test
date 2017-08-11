@@ -7,10 +7,13 @@
 	text-decoration: underline;
 	color: #881c1c;
 }
-.row div div span {
+.row div div h3 span {
 	display: inline;
 	text-align: right;
 	float: right;
+	font-size: 14px; 
+	font-weight: normal;
+	font-style: italic;
 }
 
 footer a {
