@@ -2,7 +2,10 @@
 .row h3 {
 	text-align: left;
 	display: inline;
+}
+.row h3 {
 	text-decoration: underline;
+	color:#881c1c
 }
 .row span {
 	text-align: right;
