@@ -6129,3 +6129,10 @@ input::-webkit-input-placeholder {
 #demo-2 input::-webkit-input-placeholder {
   color: transparent;
 }
+
+div ul li {
+  font-size: 2rem;
+}
+div p {
+  font-size: 2rem;
+}

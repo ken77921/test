@@ -1,17 +1,15 @@
 /* CY */
 .row h3 {
+	text-align: left;
 	display: inline;
+	text-decoration: underline;
 }
 .row span {
+	text-align: right;
 	float:right;
 }
 
-div ul li {
-	font-size: 2rem;
-}
-div p {
-	font-size: 2rem;
-}
+
 
 
 .jumbotron
