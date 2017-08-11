@@ -6131,8 +6131,8 @@ input::-webkit-input-placeholder {
 }
 
 div ul li {
-  font-size: 2rem;
+  font-size: 1em;
 }
 div p {
-  font-size: 2rem;
+  font-size: 1em;
 }
