@@ -5,14 +5,16 @@
 }
 .row h3 a {
 	text-decoration: underline;
-	color:#881c1c
+	color: #881c1c;
 }
 .row span {
 	text-align: right;
-	float:right;
+	float: right;
 }
 
-
+footer a {
+	color: #881c1c;	
+}
 
 
 .jumbotron
