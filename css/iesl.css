@@ -13,6 +13,12 @@
 	text-align: left;
 	display: inline;
 }
+.row div ul a,			/* datasets> */
+.row div h3 a { 		/* sw */
+	/*text-decoration: underline;*/
+	color: #881c1c;
+}
+
 .row div div h3 a {
 	/*text-decoration: underline;*/
 	color: #881c1c;
