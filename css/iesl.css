@@ -1,4 +1,8 @@
 /* CY */
+.wrap {
+	margin: 0 auto;
+	text-align: center;
+}
 .row ul {
 	text-align: justify;
 	margin: auto;
